@@ -3,9 +3,9 @@
 ####By Carmel Schvartzman
 
 This Bootstrap App code is the companion for the following Tutorial:
- http://themvcclub.blogspot.com/2015/06/bootstrap-carousel-slideshows-ajax-json-loaded-with-jquery.html
+ http://themvcclub.blogspot.com/2015/06/bootstrap-tutorial-responsive-lists-with-linked-items.html
 
-<a href="http://themvcclub.blogspot.com/2015/06/bootstrap-carousel-slideshows-ajax-json-loaded-with-jquery.html" imageanchor="1" target="_blank" style="margin-left: 1em; margin-right: 1em;">
+<a href="http://themvcclub.blogspot.com/2015/06/bootstrap-tutorial-responsive-lists-with-linked-items.html" imageanchor="1" target="_blank" style="margin-left: 1em; margin-right: 1em;">
 
 
 
